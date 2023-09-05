@@ -1,0 +1,2 @@
+# Gosh_Kolotyan_CV
+Fall_Detection_Using_YOLO_8
