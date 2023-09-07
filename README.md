@@ -56,7 +56,7 @@ The configuration for the Fall Detection system can be found in the provided cod
 To run the Fall Detection system, execute the Python script. This script reads frames from the input video, performs pose estimation using YOLOv8, calculates relevant angles, and detects falls in real-time.
 
 ```bash
-python your_fall_detection_script.py
+python fall_detection_script.py
 ```
 
 ## 4. Algorithm Explanation
