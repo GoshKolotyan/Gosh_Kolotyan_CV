@@ -20,7 +20,6 @@ Based on the provided code, I'll help you create documentation for your fall det
 5. **Example**
 6. **Troubleshooting**
 7. **Contributing**
-8. **License**
 
 ## 1. Introduction
 
@@ -86,8 +85,5 @@ If you encounter issues or errors while using the Fall Detection system, please 
 
 Contributions to the Fall Detection system are welcome. If you want to contribute to the project or report issues, please follow the guidelines mentioned in the code.
 
-## 8. License
-
-The Fall Detection system is released under a specific license (if applicable). Please review the code for licensing details.
 
 ---
