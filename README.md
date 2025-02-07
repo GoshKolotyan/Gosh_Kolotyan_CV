@@ -1,10 +1,3 @@
-# Gosh_Kolotyan_CV
-Fall Detection Using YOLOv8 Documentation
-
-Based on the provided code, I'll help you create documentation for your fall detection system using YOLOv8. Here's a structured documentation outline:
-
----
-
 # Fall Detection Using YOLOv8 Documentation
 
 ## Table of Contents
