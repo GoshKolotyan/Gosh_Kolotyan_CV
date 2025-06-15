@@ -1,19 +1,5 @@
 # Fall Detection Using YOLOv8 Documentation
 
-## Table of Contents
-
-1. **Introduction**
-2. **Installation**
-3. **Usage**
-   a. Configuration
-   b. Running Fall Detection
-4. **Algorithm Explanation**
-   a. Angle Calculation
-   b. Fall Detection Logic
-5. **Example**
-6. **Troubleshooting**
-7. **Contributing**
-
 ## 1. Introduction
 
 This documentation provides an overview and usage guide for the Fall Detection system using YOLOv8. This system analyzes video streams to detect falls in real-time.
